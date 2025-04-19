@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 AshokShau
+Copyright (c) 2025 FantasticSukhi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,9 +23,9 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @AshokShau
-#     UPDATE   :- Abishnoi_bots
-#     GITHUB :- AshokShau ""
+# TG :- @YOUR_DAD_BLACKMAMBA
+#     UPDATE   :- @GARUD_SUPPORT
+#     GITHUB :- FantasticSukhi ""
 
 import asyncio
 import os
