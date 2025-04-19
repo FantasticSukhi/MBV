@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━━━━━━━━━
 <h2 align="center">
-    ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
+    ──「 мвν 」──
 </h2>
 
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/GARUD_OWNER) 
@@ -150,10 +150,6 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [AshokShau] × <a href="https://github.com/FantasticSukhi" alt="FantasticSukhi"> <img src="https://img.shields.io/badge/FantasticSukhi-90302f?logo=github" /></a>  
-
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
-
-
+➥ [мвν] × <a href="https://github.com/FantasticSukhi" alt="FantasticSukhi"> <img src="https://img.shields.io/badge/FantasticSukhi-90302f?logo=github" /></a>    
 ➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
 ━━━━━━━━━━━━━━━━━━━━
