@@ -13,13 +13,13 @@ class Config(object):
     ARQ_API_KEY = "PMPTTD-HOMLMF-SRBHNH-RZMWXL-ARQ"
     SPAMWATCH_API = None
     TOKEN = getenv("TOKEN", None)
-    OWNER_ID = int(getenv("OWNER_ID", 5938660179))
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "AshokShau")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "AbishnoiMF")
-    LOGGER_ID = int(getenv("LOGGER_ID", "-1001819078701"))
+    OWNER_ID = int(getenv("OWNER_ID", 7448520005))
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "GARUD_OWNER")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "GARUD_NETWORK")
+    LOGGER_ID = int(getenv("LOGGER_ID", "-1002124344872"))
     MONGO_URI = getenv(
         "MONGO_DB_URI",
-        "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority",
+        "mongodb+srv://Mamba:Mamba@cluster0.wnvgc6k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     )
     DB_NAME = getenv("DB_NAME", "ExonRobot")
     REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"
