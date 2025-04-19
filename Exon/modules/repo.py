@@ -12,7 +12,7 @@ from telethon import __version__ as s
 
 from Exon import Abishnoi as pbot
 
-ABISHNOIX = "https://te.legra.ph/file/abfc49a1cc4b5629dc8cd.jpg"
+ABISHNOIX = "https://files.catbox.moe/ev6kvx.jpg"
 
 
 @pbot.on_cmd("repo")
@@ -21,7 +21,7 @@ async def repo(_, message):
         photo=ABISHNOIX,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/AshokShau)**
+**ᴏᴡɴᴇʀ  : [мαмвα](https://t.me/GARUD_OWNER)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -31,10 +31,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/AshokShau/AsuXMusic"
+                        "•ᴍᴜꜱɪᴄ•", url="https://t.me/GARUD_SUPPORT"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏᴠ1•", url="https://github.com/AshokShau/ExonRobot"
+                        "•ʀᴏʙᴏᴠ1•", url="https://t.me/GARUD_SUPPORTt"
                     ),
                 ]
             ]
